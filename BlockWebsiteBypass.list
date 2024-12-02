@@ -1,0 +1,15 @@
+# 域名后缀匹配 DOMAIN-SUFFIX
+# 域名关键字匹配 DOMAIN-KEYWORD
+
+# BBC
+DOMAIN-SUFFIX,bbc.com
+
+# 品葱
+DOMAIN-SUFFIX,pincong.rocks
+
+# RFA
+DOMAIN-SUFFIX,rfa.org
+
+# VOA
+DOMAIN-SUFFIX,voachinese.com
+DOMAIN-SUFFIX,voanews.com
