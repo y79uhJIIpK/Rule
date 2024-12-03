@@ -1,0 +1,5 @@
+# RFA Source: https://github.com/blackmatrix7/ios_rule_script/blob/8a0fc8dbf3b2e2316c01980e677a5dd6ab8c6bbf/rule/Surge/Proxy/Proxy_All.list
+DOMAIN-SUFFIX,rfa.org
+DOMAIN-SUFFIX,rfachina.com
+DOMAIN-SUFFIX,rfamobile.org
+DOMAIN-SUFFIX,rfaweb.org
